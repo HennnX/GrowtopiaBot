@@ -26,7 +26,7 @@
 
 using namespace std;
 
-string SERVER_HOST = "209.59.191.76";
+string SERVER_HOST = "213.179.209.187";
 int SERVER_PORT = 17093;
 
 /*********  hidden vars  ********/
@@ -41,7 +41,7 @@ public:
 	string currentWorld;
 	int timeFromWorldEnter = 0; // in 10mss...
 
-	string gameVersion = "3.011";
+	string gameVersion = "4.08";
 	/*********  hidden vars  ********/
 
 
